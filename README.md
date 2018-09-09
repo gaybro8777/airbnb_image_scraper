@@ -1,7 +1,7 @@
 # A scraper for Airbnb listing images
 Let's say you want to do some image recognition on some Airbnb listings. However, there isn't currently that kind of image dataset (at least, I couldn't find one). This script should help you.
 
-### Usage
+## Usage
 
 **Step 1**:  
 Fork this repo, then clone it somewhere onto your computer.
