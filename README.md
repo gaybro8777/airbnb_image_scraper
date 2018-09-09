@@ -13,7 +13,7 @@ Put the csv file into the same directory as this python script. Then, rename it 
 
 **Step 3**:  
 Run the python script by typing this into your terminal:  
-```python airbnb_image_scraper.py [numListings] ```  
+```python airbnb_image_scraper.py numListings ```  
 The numListings argument allows you to specify how many listings to scrape images for. For example, if I just wanted the images for the first 20 listings, I would write:
 ```python airbnb_image_scraper.py 20```
 
