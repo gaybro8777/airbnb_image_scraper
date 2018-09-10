@@ -9,7 +9,7 @@ Fork this repo, then clone it somewhere onto your computer.
 **Step 2**:  
 Download a dataset containing Airbnb listing ID's. I used the Boston Airbnb Dataset (found [here](https://www.kaggle.com/airbnb/boston#listings.csv), just use listings.csv) for testing. However, any csv of listing ID's should work as long as you name the column 'id' for the ID column.
 
-Put the csv file into the same directory as this python script. Then, rename it into 'listings.csv'.
+Put the csv file into the same directory as this python script. Then, rename it into 'listings.csv' if it's not already.
 
 **Step 3**:  
 Run the python script by typing this into your terminal:  
