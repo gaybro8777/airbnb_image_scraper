@@ -7,7 +7,7 @@ Let's say you want to do some image recognition on some Airbnb listings. However
 Fork this repo, then clone it somewhere onto your computer.
 
 You'll also need to install the pandas and requests packages if you don't have them. To do so, type into terminal:  
-`pip install pandas
+`pip install pandas  
  pip install requests`
 
 **Step 2**:  
