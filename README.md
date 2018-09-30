@@ -6,6 +6,10 @@ Let's say you want to do some image recognition on some Airbnb listings. However
 **Step 1**:  
 Fork this repo, then clone it somewhere onto your computer.
 
+You'll also need to install the pandas and requests packages if you don't have them. To do so, type into terminal:  
+`pip install pandas
+ pip install requests`
+
 **Step 2**:  
 Download a dataset containing Airbnb listing ID's. I used the Boston Airbnb Dataset (found [here](https://www.kaggle.com/airbnb/boston#listings.csv), just use listings.csv) for testing. However, any csv of listing ID's should work as long as you name the column 'id' for the ID column.
 
